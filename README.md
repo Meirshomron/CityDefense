@@ -11,7 +11,7 @@ I'm a developer and I worked on this game alone so the graphical aspect of the g
 
 
 ## Game Flow
-<img  src="Images/CityDefense9.png" width="1000" >
+<img  src="Images/CityDefense9.png" width="1100" >
 
 
 
@@ -27,7 +27,7 @@ I'm a developer and I worked on this game alone so the graphical aspect of the g
 - Create a mobile version - currently it's written for PC.
 
 ##  Images:
-<img  src="Images/CityDefense2.png" width="400" >
-<img  src="Images/CityDefense3.png" width="400" >
-<img  src="Images/CityDefense4.png" width="400" >
-<img  src="Images/CityDefense5.png" width="400" >
+<img  src="Images/CityDefense2.png" width="600" >
+<img  src="Images/CityDefense3.png" width="600" >
+<img  src="Images/CityDefense4.png" width="600" >
+<img  src="Images/CityDefense5.png" width="600" >
