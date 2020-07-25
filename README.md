@@ -7,7 +7,7 @@ Once the city is destroyed, the game is over.
 The game gets harder as you get better but no worries - you also get more boosters.
 
 Game development is my passion and this game was created for fun and persenal development.
-I'm a developer and I worked on this game alone so the graphical aspect of the game is as basic as you can see.
+I'm a developer and I worked on this game alone so the graphical aspect of the game is basic.
 
 
 ## Game Flow
