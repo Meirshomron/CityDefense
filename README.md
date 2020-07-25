@@ -1,5 +1,5 @@
 # CityDefense
-Created the game CityDefense in Unity.
+Created the hyper-casual game CityDefense in Unity.
 
 The game is a combination of Fruit Ninja and Tower Defense.
 The goal is to protect the city by slashing the different bombs spawned at it.
