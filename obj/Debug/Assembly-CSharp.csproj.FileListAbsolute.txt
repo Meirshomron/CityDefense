@@ -1,0 +1,4 @@
+E:\UnityProjects\fruitNinja\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\UnityProjects\fruitNinja\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\UnityProjects\CityDefense\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\UnityProjects\CityDefense\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
