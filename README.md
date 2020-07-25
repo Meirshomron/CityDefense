@@ -9,6 +9,8 @@ The game gets harder as you get better but no worries - you also get more booste
 Game development is my passion and this game was created for fun and persenal development.
 I'm a developer and I worked on this game alone so the graphical aspect of the game are basic.
 
+<a href="https://meirshomron.github.io/MakingOfCityDefense.html">Making Of CityDefense Article</a>
+
 
 ## Game Flow
 <img  src="Images/CityDefense9.png" width="1100" >
@@ -31,3 +33,4 @@ I'm a developer and I worked on this game alone so the graphical aspect of the g
 <img  src="Images/CityDefense3.png" width="600" >
 <img  src="Images/CityDefense4.png" width="600" >
 <img  src="Images/CityDefense5.png" width="600" >
+
