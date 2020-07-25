@@ -22,7 +22,7 @@ I'm a developer and I worked on this game alone so the graphical aspect of the g
 - Saving a score board.
 - Animation of award added amount.
 - Explosion animation when the bomb hits the city.
-- More cities.
+- More cities, bombs and boosters.
 - In-game pause, resume and settings buttons.
 - Create a mobile version - currently it's written for PC.
 
