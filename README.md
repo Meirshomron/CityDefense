@@ -7,7 +7,7 @@ Once the city is destroyed, the game is over.
 The game gets harder as you get better but no worries - you also get more boosters.
 
 Game development is my passion and I created this game for fun and personal growth.
-I'm a developer and independently worked on this game so the graphical aspects of the game are basic.
+I'm a developer and worked on this game independently so the graphical aspects of the game are basic.
 
 <a href="https://meirshomron.github.io/MakingOfCityDefense.html">Making Of CityDefense Article</a>
 
